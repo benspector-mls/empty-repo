@@ -1,4 +1,4 @@
-# B's Page
+# B Page
 
 Hello _my_ name is **B**.
 
@@ -14,7 +14,7 @@ My hobbies are
 ## Code
 
 ```js
-const name = "ben";
+const name = "B";
 ```
 
 another change!
