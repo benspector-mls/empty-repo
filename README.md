@@ -1,6 +1,9 @@
+
 # Elijah's Page
 
 Hello _my_ name is **Elijah**.
+
+
 
 My hobbies are
 
@@ -14,7 +17,9 @@ My hobbies are
 ## Code
 
 ```js
+
 const name = "Elijah";
+
 ```
 
 another change!
