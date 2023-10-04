@@ -1,6 +1,6 @@
 # Benjamin's Page
 
-Hello _my_ name is **Ben**.
+Hello _my_ name is **Benjamin**.
 
 My hobbies are
 
@@ -14,7 +14,7 @@ My hobbies are
 ## Code
 
 ```js
-const name = "ben";
+const name = "Bryan";
 ```
 
 another change!
