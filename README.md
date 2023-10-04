@@ -14,7 +14,7 @@ My hobbies are
 ## Code
 
 ```js
-const name = "ben";
+const name = "Bryan";
 ```
 
 another change!
