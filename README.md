@@ -1,10 +1,10 @@
-# Nicole's Page
+# Benjamin's Page
 
-Hello _my_ name is **Nicole**.
+Hello _my_ name is **Benjamin**.
 
 My hobbies are
 
-- soccer
+- soccer   
 - playing heroes of the storm
 - cooking
 - rock climbing
@@ -14,7 +14,7 @@ My hobbies are
 ## Code
 
 ```js
-const name = "ben";
+const name = "Bryan";
 ```
 
 another change!
