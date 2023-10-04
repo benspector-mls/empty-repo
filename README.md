@@ -4,12 +4,12 @@ Hello _my_ name is **Nico**.
 
 My hobbies are
 
-- soccer
+- futbol
 - playing heroes of the storm
 - cooking
 - rock climbing
 
-![description](https://preview.redd.it/what-is-marcy-doing-in-this-image-funny-answers-only-v0-46p5h3r128j91.jpg?auto=webp&s=9dab0b1eb5704f7f71ceed33ed44762e345ea7dc)
+![goku](https://static.wikia.nocookie.net/p__/images/8/81/Goku_Super_Hero_Infobox.png/revision/latest?cb=20220220034848&path-prefix=protagonist)
 
 ## Code
 
