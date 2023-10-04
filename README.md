@@ -1,6 +1,6 @@
-# Ben's Page
+# Nicole's Page
 
-Hello _my_ name is **Ben**.
+Hello _my_ name is **Nicole**.
 
 My hobbies are
 
