@@ -1,6 +1,8 @@
 console.log("hello world!");
 console.log("What is up doc?");
 
+const add = (x, y) => x + y;
+
 const subtract = (a, b) => a - b; 
 
 const result = subtract(5, 3)
